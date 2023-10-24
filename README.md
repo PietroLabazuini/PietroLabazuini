@@ -1,6 +1,6 @@
 ## Hi !
 - 👋 I’m Pierre Labazuy !
-- 👨‍🎓 I'm a 21 year-old student french in ISIMA, a french engineering school
+- 👨‍🎓 I'm a 22 year-old french student in ISIMA, a french engineering school
 - 🖥️ I study Computer Science
 - 🤖 I'm specialised in Robotics, Virtual Reality and Embedded Systems
 - 👀 I’m interested in Software Development and Unity Development
