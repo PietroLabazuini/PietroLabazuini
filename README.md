@@ -1,12 +1,12 @@
 ## Hi !
 - 👋 I’m Pierre Labazuy !
-- 👨‍🎓 I'm a 22 year-old french student in ISIMA, a french engineering school
-- 🖥️ I study Computer Science
-- 🤖 I'm specialised in Robotics, Virtual Reality and Embedded Systems
+- 👨‍🎓 I'm a 23 year-old french engineer
+- 🤖 I'm specialised in Virtual Reality and Embedded Systems
 - 👀 I’m interested in Software Development and Unity Development
-- 🌎 I am looking for an internship in the field of Embedded Systems and Software Development
+- 🌱 I’m currently on an internship and déveloping a Augmented Reality solution
+- 🌎 I am looking for a job in Unity Development and Virtual & Augmented Reality in Paris
 <!---- 🕹️ I aim to become a video game developer !
-- 🌱 I’m currently learning C# scripting, C++ and Unity in general
+
 - 🌐You can find my resume here :
 **https://perso.isima.fr/~pilabazuy/RESUME_LABAZUY.pdf**--->
 <!---
